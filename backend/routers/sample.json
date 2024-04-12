@@ -1,0 +1,21 @@
+{
+  "name": "John Doe",
+  "age": 25,
+  "gender": "male",
+  "height": 5.8,
+  "weight": 150,
+  "activity_level": "moderate",
+  "exercise_hours": 3,
+  "job_type": "student",
+  "work_type": "office",
+  "work_hours": 40,
+  "cooking_hours": 5,
+  "proficiency_in_cooking": "medium",
+  "goals": "healthy",
+  "dietary_restrictions": null,
+  "diet_type": "balanced",
+  "allergies": null,
+  "cuisine_preference": "indian",
+  "budget": 100,
+  "grocery_frequency": "weekly"
+}
